@@ -2,7 +2,7 @@
   "format_version": 2,
 
   "header": {
-    "description": "Vattic's Original Faithful 32x32 \n §8By Evorp and many others",
+    "description": "Vattic's Original Faithful 32x32\n§8By Evorp and many others",
     "name": "Classic Faithful 32x PA - Bedrock",
     "uuid": "bb569bff-9950-4727-871a-6fdc70e2e9c3",
     "version": [0, 0, 1],
@@ -10,7 +10,7 @@
   },
   "modules": [
     {
-      "description": "Vattic's Original Faithful 32x32 \n §8By Evorp and many others",
+      "description": "Vattic's Original Faithful 32x32\n§8By Evorp and many others",
       "type": "resources",
       "uuid": "144cfd15-ad18-4981-8fa3-3853976da019",
       "version": [0, 0, 1]
